@@ -1,0 +1,12 @@
+ Volume in drive D is D
+ Volume Serial Number is D037-5BDE
+
+ Directory of D:\salesa\Source\Repos\IIO11300HTYO
+
+16.03.2016  08.52    <DIR>          .
+16.03.2016  08.52    <DIR>          ..
+16.03.2016  08.51             3ÿ978 .gitignore
+16.03.2016  08.51                63 README.md
+16.03.2016  08.52                 0 roskaa.txt
+               3 File(s)          4ÿ041 bytes
+               2 Dir(s)  718ÿ753ÿ058ÿ816 bytes free
